@@ -2,14 +2,14 @@
 /**
  * Add additional html tag for the bbPress Forums
  *
- * @package     CTF
- * @subpackage  CTF/includes
+ * @package     WPF
+ * @subpackage  WPF/includes
  * @copyright   Copyright (c) 2014, Jason Witt
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since       1.0.0
  * @author      Jason Witt <contact@jawittdesigns.com>
  */
-class CTF_Allowed_Tags {
+class WPF_Allowed_Tags {
 
     /**
      * Initialize the class and set its properties.

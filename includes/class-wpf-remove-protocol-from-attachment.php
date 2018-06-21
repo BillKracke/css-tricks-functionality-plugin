@@ -2,15 +2,15 @@
 /**
  * Remove the http/https protocols from attachments
  *
- * @package     CTF
- * @subpackage  CTF/includes
+ * @package     WPF
+ * @subpackage  WPF/includes
  * @copyright   Copyright (c) 2014, Jason Witt
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since       1.0.0
  * @author      Jason Witt <contact@jawittdesigns.com>
  */
 
-class CTF_Remove_Protocol_From_Attachments {
+class WPF_Remove_Protocol_From_Attachments {
 
 	/**
 	 * Initialize the class

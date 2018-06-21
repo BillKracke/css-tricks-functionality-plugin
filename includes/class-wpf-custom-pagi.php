@@ -4,8 +4,8 @@
  * based on WP Page Numbers
  * http://www.jenst.se/2008/03/29/wp-page-numbers
  *
- * @package     CTF
- * @subpackage  CTF/includes
+ * @package     WPF
+ * @subpackage  WPF/includes
  * @copyright   Copyright (c) 2014, Jason Witt
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since       1.0.0

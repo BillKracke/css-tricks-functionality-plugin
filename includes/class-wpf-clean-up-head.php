@@ -2,15 +2,15 @@
 /**
  * Remove WP generated content from the head
  * 
- * @package     CTF
- * @subpackage  CTF/includes
+ * @package     WPF
+ * @subpackage  WPF/includes
  * @copyright   Copyright (c) 2014, Jason Witt
  * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
  * @since       1.0.0
  * @author      Jason Witt <contact@jawittdesigns.com>
  */
 
-class CTF_Clean_Up_Head {
+class WPF_Clean_Up_Head {
 
 	/**
 	 * Initialize the class
