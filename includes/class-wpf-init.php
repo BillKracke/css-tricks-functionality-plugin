@@ -32,7 +32,6 @@ class WPF_Init {
 		$add_email_feed			 = new WPF_Add_Email_Feed();
 		$increase_form_limit	 = new WPF_Increase_Postmeta_Form_Limit();
 		$limit_users_delete		 = new WPF_Limit_Users_Delete();
-		$remove_assets			 = new WPF_Remove_Unwated_Assets();
 		$remove_post_author_url  = new WPF_Remove_Post_Author_Url();
 		$allowed_tags			 = new WPF_Allowed_Tags();
 		
